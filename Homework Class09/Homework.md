@@ -15,8 +15,3 @@ Create a class Animal. Each Animal has name, color, age and Gender. Use enum for
 * Find all the names of the animals that start with 'A'
 * Find all male, brown animals
 * Find the first animal whose name is longer than 10 characters
-
-
-### Contact
-* stojanovskatanja@hotmail.com
-* radmila_177@yahoo.com
